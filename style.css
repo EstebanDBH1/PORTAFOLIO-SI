@@ -31,8 +31,8 @@ html {
 
 body {
   font-family: m-r;
-  background-color: #111111;
-  color: #777777;
+  background-color: white;
+  color: #111111;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -70,7 +70,7 @@ main {
 }
 
 .lista li a {
-  color: #777777;
+  color: #111111;
 }
 
 .btn-toggle-menu {
@@ -146,7 +146,7 @@ main {
 }
 
 .social li a {
-  color: #777777;
+  color: #111111;
   text-transform: uppercase;
   font-size: 12px;
 }
@@ -243,7 +243,7 @@ main {
 }
 
 .m_nu {
-  color: #777777;
+  color: #111111;
 }
 
 .c_lose {
